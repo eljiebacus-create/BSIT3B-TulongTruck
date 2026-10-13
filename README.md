@@ -1,4 +1,4 @@
-PROJECT TITLE
+PROJECT TITLE:
 TulongTruck: Community Assistance and Relief Distribution Monitoring System
 
 GROUP MEMBERS
